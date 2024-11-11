@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>WORKSHOP 2025 - Robótica Marina</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="dist/assets/img/favicon.ico" />
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic"
+        rel="stylesheet" type="text/css" />
+    <!-- Third party plugin CSS-->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css"
+        rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="dist/css/styles.css" rel="stylesheet" />
+</head>
+
+<body id="page-top">
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">WORKSHOP 2025 - Robótica Marina</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Introduction">Introducción</a></li> 
+                <!--    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Dates">Key Dates</a></li> -->
+                    <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#topics">Topics</a></li> -->
+                 <!--   <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#submission">Submission</a></li>  -->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#schedule">Programa</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#CV">Docente</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Location">Ubicación</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#organizer">Organización</a></li>
+
+                    <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#committee">Committee</a></li> -->
+                    <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contacts">Contacts</a></li> -->
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Masthead-->
+    <header class="masthead">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center justify-content-center text-center">
+                <div class="col-lg-12 align-self-end">
+                    <h1 class="text-white font-weight-bold custom-title" style="font-size: 32px;">
+                    <b>Curso de Robótica Marina: el estado del arte y las aplicaciones</b> </h1>
+                    <h1 class="text-white font-weight-bold custom-title" style="font-size: 32px;">  
+                     <b>Workshop de Robótica Marina</b></h1>
+
+                    <hr class="divider my-4" />
+                </div>
+                <div class="col-lg-20 align-self-baseline">
+                     <p class="text-white-75 font-weight-light mb-5"></p> 
+                
+                    <p class="text-white-75 font-weight-light mb-5">3 al 7 de Marzo de 2025, Buenos Aires, Argentina</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <style>
+    .custom-title {
+        font-size: 14px; /* Aquí ajusta el tamaño de la fuente según tu preferencia */
+    }
+</style>
+    <!-- Introduction-->
+
+    
+    <section class="page-section" id="Introduction">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-heading text-uppercase"> Motivación </h2>
+                    <hr class="divider my-4" />
+              <!-- </div> -->
+
+            <video width="640" height="360" controls>
+                <source src="./img/MarinexMusica.mp4" type="video/mp4">
+                Tu navegador no soporta la etiqueta de video.
+            </video> 
+
+                
+              
+
+                <p class="lead" style="text-align:justify">
+                - Toda la organización de esta capacitación fue posible gracias a un subsidio otorgado por la Fundación Williams.
+
+                </p>
+
+                <p class="lead" style="text-align:justify">
+                - El encargado de dictar tanto el Curso como el Workshop será el Ingeniero Massimo Caccia... 
+                </p>
+ <section class="page-section" id="Introduction">
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading text-uppercase"> Objetivos </h2>
+                    <hr class="divider my-4" />
+ 
+<!--
+                  <p class="lead" style="text-align:justify">
+                    - 
+                    
+                  </p>
+                     <p class="lead" style="text-align:justify">
+                    - 
+                    
+                </p>
+
+                   <p class="lead" style="text-align:justify">
+                    -	
+                </p>
+
+                   <p class="lead" style="text-align:justify">
+                    -	
+
+                </p>
+                    
+                     <p class="lead" style="text-align:justify">
+                    -	
+
+                </p>
+
+                     <p class="lead" style="text-align:justify">
+                    -	
+
+
+                </p>
+                    -->
+            </div>
+        </div>
+        </div>
+    </section>
+    <!-- Dates-->
+    <section class="page-section" id="schedule">
+        <div class="container">
+            <h2 class="text-center mt-0">Programa</h2>
+            <hr class="divider my-4" />
+            <div class="row">
+                <div class="col-lg-10 col-md-6 text-center">
+                    <table class="table table-bordered table-hover white">
+                        <tbody>
+                            <tr>
+                                <td>3 de Marzo, 2025 </td>
+                                <td><a href="">Próximamente</a></td>
+                            </tr>
+                            <tr>
+                                <td>4 de Marzo, 2025 </td>
+                                <td><a href="">Próximamente</a></td>
+                            </tr>
+                            <tr>
+                                <td>5 de Marzo, 2025 </td>
+                                <td><a href="">Próximamente</a></td>
+                            </tr>
+                             <td>6 de Marzo, 2025 </td>
+                                <td><a href="">Próximamente</a></td>
+                            </tr>
+                            <td>7 de Marzo, 2025 </td>
+                                <td><a href="">Próximamente</a></td>
+                            </tr>
+
+
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- Dates-->
+    <section class="page-section" id="CV">
+        <div class="container">
+            <h2 class="text-center mt-0">Docente</h2>
+            <hr class="divider my-4" />
+            <div class="row justify-content-center">
+<!-- mutear en caso de no funcionar-->
+                <div class="center" data-animation-delay="200">
+
+                <br /><br />
+                <center><a href="https://www.researchgate.net/profile/Massimo-Caccia" target="blank"><img
+                            class="img-responsive img-rounded" style="border-radius: 50%" height="150" width="150"
+                            src="img/massimo.png" alt=""></a></center>
+                <br />
+                <h4 class="section-heading">
+                    <center><a href="https://www.researchgate.net/profile/Massimo-Caccia" target="blank">
+                            <font color="Black">Ing. Massimo Caccia</font>
+                        </a></center>
+                </h4>
+
+            </div>
+ <!-- mutear en caso de no funcionar-->
+                </div>
+            </div>
+        </div>
+    </section>
+  <!-- Dates-->
+    <section class="page-section" id="Location">
+        <div class="container">
+            <h2 class="text-center mt-0">Ubicación</h2>
+            <hr class="divider my-4" />
+            <div class="row">
+                <div class="col-lg-10 col-md-6 text-center">
+   <!-- Mapa de Google insertado -->
+                <div class="map-container">
+                    <iframe 
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.407298220796!2d-58.37172082377207!3d-34.59386087295778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a335357fe29489%3A0x9cb2aaf14fac6238!2sEscuela%20de%20Ciencias%20del%20Mar!5e0!3m2!1ses-419!2sar!4v1725809784226!5m2!1ses-419!2sar"
+                        width="100%" 
+                        height="450" 
+                        style="border:0;" 
+                        allowfullscreen="" 
+                        loading="lazy" 
+                        referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+                </div>
+
+                <!-- Información adicional sobre distancia al subte y líneas de colectivo -->
+                <div class="info mt-4">
+                    <p><strong>Dirección:</strong> Av. Antártida Argentina 425, Escuela de Ciencias del Mar,CABA</p>
+                    <p><strong>Distancia al subte:</strong> 500 metros</p>
+                    <p><strong>Líneas de subte cercanas:</strong> Línea C, Línea E (Estaciones Retiro o Catalinas)</p>
+                    <p><strong>Líneas de colectivo cercanas:</strong>106, 108, 150, 152, 45, 9</p>
+                    <p><strong>Desde la Estación de Retiro:  </strong>1 km</p>
+                    <p><strong>Desde La Plata:  </strong>Tren Roca hasta Constitución, Subte Línea C hasta Retiro o en la Línea 129 hasta Retiro</p>
+                    <p><a href="https://www.google.com/maps/dir//Escuela+de+Ciencias+del+Mar" target="_blank">Ver en Google Maps</a></p>
+                </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- Dates-->
+    <!-- Team -->
+    <section class="bg-light page-section" id="organizer">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-heading text-uppercase">Coordinadora</h2>
+                    <hr class="divider my-4" />
+                </div>
+            </div>
+
+
+
+
+            <style>
+                .left {
+                    float: left;
+                    width: 50%;
+                    height: 400px;
+
+                }
+
+                .right {
+                    float: right;
+                    width: 50%;
+                    height: 400px;
+
+                }
+            </style>
+
+            <div class="center" data-animation-delay="200">
+
+                <br /><br />
+                <center><a href="https://www.researchgate.net/profile/Graziella-Bozzano" target="blank"><img
+                            class="img-responsive img-rounded" style="border-radius: 50%" height="150" width="150"
+                            src="img/graziella.png" alt=""></a></center>
+                <br />
+                <h4 class="section-heading">
+                    <center><a href="https://www.researchgate.net/profile/Graziella-Bozzano" target="blank">
+                            <font color="Black">Dra. Graziella Bozzano</font>
+                        </a></center>
+                </h4>
+
+            </div>
+
+        </div>
+    </section>
+
+     <section class="bg-light page-section" id="contacts">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-heading text-uppercase">Instituciones
+
+
+               <div class="container">
+    <div class="row align-items-stretch">
+        <div class="col-md-4">
+            <img src="img/logo1.png" alt="Logo 1" style="max-width: 100px; height: auto;">
+        </div>
+        <div class="col-md-4">
+            <img src="img/logo2.png" alt="Logo 2" style="max-width: 100px; height: auto;">
+        </div>
+        <div class="col-md-4">
+            <img src="img/logo3.png" alt="Logo 3" style="max-width: 100px; height: auto;">
+        </div>
+    </div>
+</div>
+                <!-- -->
+        <p class="lead text-leaft" style="text-align:left; font-size: 10px;"> 
+            
+            <li><b>Servicio de Hidrografía Naval (SHN) </b></li>
+            
+            <li><b>Escuela de Ciencias del Mar (ESCM) </b></li>
+            
+            <li><b>Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) </b></li>
+        
+        </p>
+
+            </div>
+        </div>
+     </section>
+<section class="bg-light page-section" id="contacts">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <h2 class="section-heading text-uppercase">GEOMARGEN</h2>
+                <hr class="divider my-4" />
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <p class="lead" style="color:black">
+                    <b>Grupo de Estudios Geo-Geofísicos del Margen Continental</b><br />
+                    División de Geología y Geofísica Marina<br />
+                    Departamento de Oceanografía - SHN <br />
+                    <u><a style="color:black" href="mailto:geomargen@gmail.com">geomargen@gmail.com</a></u><br />
+                </p>
+            </div>
+        </div>
+        <!-- Insertar imagen con link -->
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <!-- Imagen con link -->
+                <a href="https://geomargen.github.io" target="_blank">
+                    <img src="img/Logo-Geomargen.jpg" alt="Logo-Geomargen" width="300" height="auto" style="margin-top: 20px;">
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="bg-light page-section" id="contacts">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <h2 class="section-heading text-uppercase">Contacto</h2>
+                <hr class="divider my-4" />
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <p class="lead" style="color:black">
+                    <b>Graziella Bozzano, Ph.D.</b><br />
+                    Investigadora<br />
+                    SHN - CONICET<br />
+                    <u><a style="color:black" href="mailto:grazi.hidro.gov.ar@gmail.com">grazi.hidro.gov.ar@gmail.com</a></u><br />
+
+                </p>
+            </div>
+        </div>
+      
+    </div>
+</section>
+<!--
+
+    <section class="bg-light page-section" id="contacts">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-heading text-uppercase">Contact information </h2>
+                    <hr class="divider my-4" />
+                </div>
+
+            </div>
+            <div class="col-lg-8 text-center">
+
+                </p>
+
+
+                <p class="lead" style="text-align:center;color:black">
+                  <b>Federico Ibarbalz, Ph.D.</b></br>
+                  Researcher</br>
+                   CIMA - IFAECI </br>
+                        <u><a style="color:black" href="">federico.ibarbalz@cima.fcen.uba.ar</a></u></br>
+                
+
+                </p>
+
+
+
+
+
+            </div>
+
+
+             <div class="col-lg-8 text-center">
+
+                </p>
+
+
+                <p class="lead" style="text-align:center;color:black">
+                  <b>Valeria Guinder, Ph.D.</b></br>
+                  Researcher</br>
+                   IADO - UNS - CONICET </br>
+                        <u><a style="color:black" href="">vguinder@criba.edu.ar</a></u></br>
+                
+
+                </p>
+
+
+
+
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+    </section>
+
+-->
+
+
+
+    <!-- Bootstrap core JS-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Third party plugin JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="dist/js/scripts.js"></script>
+</body>
+
+</html>
