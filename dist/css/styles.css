@@ -10173,6 +10173,7 @@ header.masthead h1 {
 
 /* Reduce el tamaño de la tipografía de los párrafos de texto */
 .bio-container .bio-text {
+  text-align: left;
     font-size: 12px;  /* Ajusta según necesites */
 }
 
