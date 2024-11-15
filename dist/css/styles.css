@@ -10168,21 +10168,21 @@ header.masthead h1 {
 
 /* Reduce el tamaño de la tipografía para el h4 */
 .bio-container h4 {
-    font-size: 11px;  /* Ajusta según necesites */
+    font-size: 10px;  /* Ajusta según necesites */
 }
 
 /* Reduce el tamaño de la tipografía de los párrafos de texto */
 .bio-container .bio-text {
-    font-size: 11px;  /* Ajusta según necesites */
+    font-size: 10px;  /* Ajusta según necesites */
 }
 
 /* Si quieres reducir aún más los elementos de la lista */
 .bio-container .objectives-list li {
-    font-size: 11px;  /* Ajusta según necesites */
+    font-size: 10px;  /* Ajusta según necesites */
 }
 
 /* Para reducir el tamaño de los enlaces */
 .bio-container a {
-    font-size: 11px;  /* Ajusta según necesites */
+    font-size: 10px;  /* Ajusta según necesites */
 }
 
