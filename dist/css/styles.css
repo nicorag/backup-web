@@ -10155,3 +10155,11 @@ header.masthead h1 {
 #language-toggle:hover {
     text-decoration: underline;
 }
+
+.navbar-logo {
+    width: 20px;  /* Ajusta el tamaño del logo directamente */
+    height: auto; /* Mantiene la proporción de la imagen */
+    margin-right: 5px; /* Espacio entre el logo y el texto */
+    vertical-align: middle; /* Alinea la imagen con el texto */
+}
+
