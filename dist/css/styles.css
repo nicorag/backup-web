@@ -1653,8 +1653,8 @@ pre code {
   }
 }
 .table {
-  width: 100%;
-  margin-bottom: 1rem;
+  width: 80%;
+  margin-bottom: 0.5rem;
   color: #212529;
 }
 .table th,
@@ -10168,22 +10168,22 @@ header.masthead h1 {
 
 /* Reduce el tamaño de la tipografía para el h4 */
 .bio-container h4 {
-    font-size: 12px;  /* Ajusta según necesites */
+    font-size: 14px;  /* Ajusta según necesites */
 }
 
 /* Reduce el tamaño de la tipografía de los párrafos de texto */
 .bio-container .bio-text {
   text-align: left;
-    font-size: 12px;  /* Ajusta según necesites */
+    font-size: 14px;  /* Ajusta según necesites */
 }
 
 /* Si quieres reducir aún más los elementos de la lista */
 .bio-container .objectives-list li {
-    font-size: 12px;  /* Ajusta según necesites */
+    font-size: 14px;  /* Ajusta según necesites */
 }
 
 /* Para reducir el tamaño de los enlaces */
 .bio-container a {
-    font-size: 12px;  /* Ajusta según necesites */
+    font-size: 14px;  /* Ajusta según necesites */
 }
 
